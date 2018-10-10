@@ -12680,11 +12680,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\will-\\Desktop\\IAB330 Projects\\Cookout_Xamarin_Forms\\UWP\\Cookout.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\will-\\Desktop\\IAB330 Projects\\NewCookout\\UWP\\Cookout.UWP.csproj",
       "projectName": "Cookout.UWP",
-      "projectPath": "C:\\Users\\will-\\Desktop\\IAB330 Projects\\Cookout_Xamarin_Forms\\UWP\\Cookout.UWP.csproj",
+      "projectPath": "C:\\Users\\will-\\Desktop\\IAB330 Projects\\NewCookout\\UWP\\Cookout.UWP.csproj",
       "packagesPath": "C:\\Users\\will-\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\will-\\Desktop\\IAB330 Projects\\Cookout_Xamarin_Forms\\UWP\\obj\\",
+      "outputPath": "C:\\Users\\will-\\Desktop\\IAB330 Projects\\NewCookout\\UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -12704,8 +12704,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\will-\\Desktop\\IAB330 Projects\\Cookout_Xamarin_Forms\\Cookout\\Cookout.csproj": {
-              "projectPath": "C:\\Users\\will-\\Desktop\\IAB330 Projects\\Cookout_Xamarin_Forms\\Cookout\\Cookout.csproj"
+            "C:\\Users\\will-\\Desktop\\IAB330 Projects\\NewCookout\\Cookout\\Cookout.csproj": {
+              "projectPath": "C:\\Users\\will-\\Desktop\\IAB330 Projects\\NewCookout\\Cookout\\Cookout.csproj"
             }
           }
         }
