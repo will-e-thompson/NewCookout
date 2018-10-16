@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Cookout.Profile"
+             Title="Profile"
+             Icon="ProfileIcon.png">
+    <StackLayout>
+        <StackLayout>
+            <Image Source ="Me.PNG"
+               HeightRequest="100"
+               WidthRequest="100"
+               VerticalOptions="Center"
+               HorizontalOptions="Start"/>
+            <Label Text="Name"
+               VerticalOptions="Center" 
+               HorizontalOptions="End" />
+        </StackLayout>
+        
+        <ScrollView>
+            <StackLayout>
+                <Image Source="Me.PNG"></Image>
+                <Image Source="Me.PNG"></Image>
+                <Image Source="Me.PNG"></Image>
+                <Image Source="Me.PNG"></Image>
+                <Image Source="Me.PNG"></Image>
+            </StackLayout>
+            
+        </ScrollView>
+    </StackLayout>
+    
+</ContentPage>

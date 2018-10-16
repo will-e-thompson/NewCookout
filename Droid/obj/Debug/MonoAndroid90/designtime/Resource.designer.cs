@@ -2248,10 +2248,19 @@ namespace Cookout.Droid
 			public const int design_snackbar_background = 2130837594;
 			
 			// aapt resource value: 0x7F010002
-			public const int icon = 2130771970;
+			public const int FavouritesIcon = 2130771970;
 			
 			// aapt resource value: 0x7F010003
-			public const int ic_arrow_back = 2130771971;
+			public const int FeedIcon = 2130771971;
+			
+			// aapt resource value: 0x7F010004
+			public const int GroceryIcon = 2130771972;
+			
+			// aapt resource value: 0x7F010005
+			public const int icon = 2130771973;
+			
+			// aapt resource value: 0x7F010009
+			public const int ic_arrow_back = 2130771977;
 			
 			// aapt resource value: 0x7F020053
 			public const int ic_audiotrack_dark = 2130837587;
@@ -2688,6 +2697,9 @@ namespace Cookout.Droid
 			// aapt resource value: 0x7F0200E3
 			public const int ic_vol_type_tv_light = 2130837731;
 			
+			// aapt resource value: 0x7F010006
+			public const int Me = 2130771974;
+			
 			// aapt resource value: 0x7F0200E4
 			public const int mr_button_connected_dark = 2130837732;
 			
@@ -2786,6 +2798,12 @@ namespace Cookout.Droid
 			
 			// aapt resource value: 0x7F020065
 			public const int notify_panel_notification_icon_bg = 2130837605;
+			
+			// aapt resource value: 0x7F010007
+			public const int ProfileIcon = 2130771975;
+			
+			// aapt resource value: 0x7F010008
+			public const int SearchIcon = 2130771976;
 			
 			static Drawable()
 			{
